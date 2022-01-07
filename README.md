@@ -1,2 +1,2 @@
 # TwChallengeBugReports
-If you found a bug in one of our servers, you can report them here.
+If you found a bug on one of our servers, you can report them here.
