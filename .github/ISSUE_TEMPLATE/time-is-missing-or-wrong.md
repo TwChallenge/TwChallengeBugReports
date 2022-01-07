@@ -3,7 +3,7 @@ name: Time is missing or wrong
 about: You went from start to finish but your time wasn't stored? Report it here to
   get it fixed
 title: "[TIME]"
-labels: Time
+labels: needs aproval, Time
 assignees: ''
 
 ---
